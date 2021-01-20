@@ -5,6 +5,8 @@ this is not. this is just random words
 ## this is a level 2 heading
 IF you want the **bold** 
 
+IF you want to italic the *word*
+
 ### this is a level 3 heading
 if you want a list
 - list 1
